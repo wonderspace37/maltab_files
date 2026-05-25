@@ -73,18 +73,60 @@ The Renter is a **lodger** within the meaning of California Civil Code
 
 ### 2. Term
 
-- [ ] **Month-to-month**, beginning __________ [start date]. Either party
-      may end the Agreement with at least **30 days' written notice**.
-- [ ] **Fixed term** from __________ to __________, then converting to
-      month-to-month unless renewed in writing.
+This Agreement covers **two consecutive one-year fixed terms**:
+
+- **Term 1:** **December 2, 2023** through **December 2, 2024**.
+- **Term 2 (renewal):** **December 2, 2024** through **December 2, 2025**.
+
+After December 2, 2025 the Agreement converts to **month-to-month** unless
+the Parties sign a new written renewal. Either party may end the
+month-to-month period with at least **30 days' written notice** (Civil
+Code § 1946.5).
+
+> **Note on backdating:** A contract cannot be retroactively *signed* into
+> effect; it takes effect on the date the Parties sign it. The Parties may
+> use this document to **memorialize the terms** of an arrangement that
+> began on December 2, 2023, by both signing today and acknowledging that
+> the terms have been in effect since that date.
 
 ### 3. Rent
 
-- Monthly rent: **$__________**, due on the **______** day of each month.
-- First month prorated? [ ] Yes, $__________ for ______ days.
+- **Annual rent: $300.00 per year**, paid as a **single lump sum due on
+  December 2** of each Term (the "Rent Due Date").
+  - Term 1 rent: **$300.00** due **December 2, 2023**.
+  - Term 2 rent: **$300.00** due **December 2, 2024**.
 - Accepted payment methods: [ ] Zelle  [ ] Venmo  [ ] Check  [ ] Cash
-  (get a receipt)  [ ] Other: ______________
-- Late fee: **$______** if rent is more than ______ days late.
+  (get a written receipt)  [ ] Other: ______________
+
+#### 3a. Late Payment Penalty
+
+If any annual rent payment is not paid in full by the Rent Due Date, a
+**10% late penalty** is added to that year's rent for each "Year Late,"
+calculated as follows:
+
+- **1 day or more past the Rent Due Date = 1 Year Late** (penalty: 10%
+  of that year's rent, i.e., **$30.00**).
+- The "Year Late" count **increases by 1 each time another full
+  365-day period elapses** without the rent being paid in full.
+  - Example: rent unpaid for 2 days → **1 Year Late** → +$30.00.
+  - Rent unpaid for 366 days → **2 Years Late** → +$60.00 total.
+  - Rent unpaid for 731 days → **3 Years Late** → +$90.00 total.
+- The penalty is **simple** (not compounded): each "Year Late" adds an
+  additional 10% of the original annual rent (**$30.00**) to the balance
+  owed, on top of the unpaid rent itself.
+- Once the rent and all accrued penalties for that year are paid in
+  full, the Year-Late counter for that year stops.
+
+> **Enforceability note.** Under California law (Civil Code § 1671 and
+> related case law), a late fee in a residential rental must be a
+> **reasonable estimate of the actual damage** the late payment causes
+> the landlord — it cannot be a punitive penalty. A 10%-per-year
+> escalating fee on a $300 annual rent may be challenged by a court as an
+> unenforceable penalty rather than liquidated damages. The Parties
+> acknowledge this risk and agree the figure above is their good-faith
+> estimate. If a court finds the figure unenforceable, the late fee will
+> be reduced to the maximum amount the court will enforce, and the rest
+> of this Agreement still applies.
 
 ### 4. Security Deposit
 
