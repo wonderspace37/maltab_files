@@ -73,9 +73,8 @@ The Renter is a **lodger** within the meaning of California Civil Code
 
 ### 2. Term
 
-This Agreement covers **five consecutive six-month fixed terms**, starting
-**June 1, 2023** and ending **December 1, 2025** (the most recent complete
-six-month period before the settlement date below):
+This Agreement covers **four consecutive six-month fixed terms**, starting
+**June 1, 2023** and ending **June 1, 2025**:
 
 | # | Term | Start | End |
 |---|------|-------|-----|
@@ -83,101 +82,101 @@ six-month period before the settlement date below):
 | 2 | Term 2 (1st renewal)  | December 1, 2023 | June 1, 2024     |
 | 3 | Term 3 (2nd renewal)  | June 1, 2024     | December 1, 2024 |
 | 4 | Term 4 (3rd renewal)  | December 1, 2024 | June 1, 2025     |
-| 5 | Term 5 (4th renewal)  | June 1, 2025     | December 1, 2025 |
 
-After **December 1, 2025** the Agreement converts to **month-to-month**
+After **June 1, 2025** the Agreement converts to **month-to-month**
 unless the Parties sign a new written renewal. Either party may end the
 month-to-month period with at least **30 days' written notice** (Civil
-Code § 1946.5).
+Code § 1946.5). The month-to-month period after June 1, 2025 is **not
+covered by the settlement in Section 3b below**, which addresses only
+the four fixed terms.
 
 > **Note on backdating and renewals.** A contract cannot be retroactively
 > *signed* into effect; it takes effect on the date the Parties sign it.
 > The Parties may use this document to **memorialize the terms** of an
 > arrangement that began on June 1, 2023, by both signing today and
 > acknowledging in writing that the terms have been in continuous effect
-> since that date across the five six-month terms above.
+> since that date across the four six-month terms above.
 
 ### 3. Rent
 
-- **Base rent: $580.00 per six-month term**, due on the **first day of
-  each Term** (the "Rent Due Date").
+- **Base rent: $587.50 per six-month term** (equivalent to approximately
+  **$97.92 per month**), due on the **first day of each Term** (the
+  "Rent Due Date").
 - Per-term due dates:
-  - Term 1: **$580.00** due **June 1, 2023**.
-  - Term 2: **$580.00** due **December 1, 2023**.
-  - Term 3: **$580.00** due **June 1, 2024**.
-  - Term 4: **$580.00** due **December 1, 2024**.
-  - Term 5: **$580.00** due **June 1, 2025**.
-- Total base rent across all five terms: **$2,900.00**.
+  - Term 1: **$587.50** due **June 1, 2023**.
+  - Term 2: **$587.50** due **December 1, 2023**.
+  - Term 3: **$587.50** due **June 1, 2024**.
+  - Term 4: **$587.50** due **December 1, 2024**.
+- Total base rent across all four terms: **$2,350.00**.
 - Accepted payment methods: [ ] Zelle  [ ] Venmo  [ ] Check  [ ] Cash
   (get a written receipt)  [ ] Other: ______________
 
 #### 3a. Late Payment Penalty
 
 If any term's base rent is not paid in full by its Rent Due Date, a
-**light late penalty of $21.00** (approximately 3.62% of the $580 base
-rent) is added to that term's balance **for each "Period Late,"**
-calculated as follows:
+**late penalty of $21.25** (approximately 3.62% of the $587.50 base
+rent, or roughly one day's rent) is added to that term's balance
+**for each "Period Late,"** calculated as follows:
 
 - **1 day or more past the Rent Due Date = 1 Period Late** (adds
-  **$21.00**).
+  **$21.25**).
 - The "Period Late" count **increases by 1 each time another full
   six-month (182-day) period elapses** without the rent being paid in
   full.
-  - 1–182 days past due  → **1 Period Late**  → **+$21.00**
-  - 183–364 days past due → **2 Periods Late** → **+$42.00**
-  - 365–546 days past due → **3 Periods Late** → **+$63.00**
-  - 547–728 days past due → **4 Periods Late** → **+$84.00**
-  - 729–910 days past due → **5 Periods Late** → **+$105.00**
-  - 911–1092 days past due → **6 Periods Late** → **+$126.00**
-  - 1093–1274 days past due → **7 Periods Late** → **+$147.00**
+  - 1–182 days past due  → **1 Period Late**  → **+$21.25**
+  - 183–364 days past due → **2 Periods Late** → **+$42.50**
+  - 365–546 days past due → **3 Periods Late** → **+$63.75**
+  - 547–728 days past due → **4 Periods Late** → **+$85.00**
+  - 729–910 days past due → **5 Periods Late** → **+$106.25**
+  - 911–1092 days past due → **6 Periods Late** → **+$127.50**
+  - 1093–1274 days past due → **7 Periods Late** → **+$148.75**
 - The penalty is **simple** (not compounded): each additional Period
-  Late adds another flat $21 to the balance owed on top of the unpaid
-  $580 base rent.
+  Late adds another flat $21.25 to the balance owed on top of the
+  unpaid $587.50 base rent.
 - Once a term's rent and all accrued penalties are paid in full, the
   Period-Late counter for that term stops.
 
 > **Enforceability note.** Under California law (Civil Code § 1671 and
 > related case law), a residential late fee must be a **reasonable
 > estimate of the actual damage** the late payment causes the landlord —
-> not a punitive penalty. A $21-per-six-months escalating fee on $580
-> base rent (~3.62% per period) is a modest figure and is well within
-> the range California courts routinely uphold as a good-faith
-> liquidated-damages estimate; the risk of it being struck as an
-> unenforceable penalty is low. The Parties nonetheless agree that if a
-> court finds any figure above unenforceable, the late fee will be
-> reduced to the maximum the court will enforce, and the rest of this
-> Agreement still applies.
+> not a punitive penalty. A $21.25-per-six-months escalating fee on
+> $587.50 base rent (~3.62% per period, roughly equal to one day's
+> rent) is a modest figure and is well within the range California
+> courts routinely uphold as a good-faith liquidated-damages estimate;
+> the risk of it being struck as an unenforceable penalty is low. The
+> Parties nonetheless agree that if a court finds any figure above
+> unenforceable, the late fee will be reduced to the maximum the court
+> will enforce, and the rest of this Agreement still applies.
 
 #### 3b. Settlement Payment — August 10, 2026
 
-The Parties agree that no rent has yet been paid for Terms 1–5. On
+The Parties agree that no rent has yet been paid for Terms 1–4. On
 **August 10, 2026** the Renter will pay the Homeowner a **lump sum
-settlement of $3,425.00**, allocated across the five terms as follows:
+settlement of $2,817.50**, allocated across the four terms as follows:
 
 | # | Term Due Date | Days Late (through 8/10/2026) | Periods Late | Base Rent | Late Penalty | **Term Total** |
 |---|---------------|-------------------------------|--------------|-----------|--------------|----------------|
-| 1 | Jun 1, 2023   | 1,166 days                    | 7            | $580.00   | 7 × $21 = $147.00 | **$727.00** |
-| 2 | Dec 1, 2023   |   983 days                    | 6            | $580.00   | 6 × $21 = $126.00 | **$706.00** |
-| 3 | Jun 1, 2024   |   800 days                    | 5            | $580.00   | 5 × $21 = $105.00 | **$685.00** |
-| 4 | Dec 1, 2024   |   617 days                    | 4            | $580.00   | 4 × $21 =  $84.00 | **$664.00** |
-| 5 | Jun 1, 2025   |   435 days                    | 3            | $580.00   | 3 × $21 =  $63.00 | **$643.00** |
-|   |               |                               |              | **$2,900.00** | **$525.00** | **$3,425.00** |
+| 1 | Jun 1, 2023   | 1,166 days                    | 7            | $587.50   | 7 × $21.25 = $148.75 | **$736.25** |
+| 2 | Dec 1, 2023   |   983 days                    | 6            | $587.50   | 6 × $21.25 = $127.50 | **$715.00** |
+| 3 | Jun 1, 2024   |   800 days                    | 5            | $587.50   | 5 × $21.25 = $106.25 | **$693.75** |
+| 4 | Dec 1, 2024   |   617 days                    | 4            | $587.50   | 4 × $21.25 =  $85.00 | **$672.50** |
+|   |               |                               |              | **$2,350.00** | **$467.50** | **$2,817.50** |
 
 - Payment date: **August 10, 2026**.
 - Payment method (circle one): Zelle  /  Venmo  /  Check #_______  /
   Cash (receipt attached)  /  Other: ______________
-- Reference / memo: "Room rent settlement — Terms 1–5 (6/1/23 – 12/1/25)".
+- Reference / memo: "Room rent settlement — Terms 1–4 (6/1/23 – 6/1/25)".
 
-Upon receipt of the full $3,425.00, the Homeowner will sign
-**Section 3c (Receipt & Release)** below, and the five terms are then
+Upon receipt of the full $2,817.50, the Homeowner will sign
+**Section 3c (Receipt & Release)** below, and the four terms are then
 paid in full.
 
 #### 3c. Receipt & Release (to be signed by Homeowner on payment)
 
-I, the Homeowner, acknowledge receipt of **$3,425.00** from the Renter on
+I, the Homeowner, acknowledge receipt of **$2,817.50** from the Renter on
 **August 10, 2026**, in full satisfaction of all base rent and late
-penalties owed under Terms 1 through 5 of this Agreement (June 1, 2023
-through December 1, 2025). No further amounts are owed for those five
+penalties owed under Terms 1 through 4 of this Agreement (June 1, 2023
+through June 1, 2025). No further amounts are owed for those four
 terms.
 
 Homeowner signature: ______________________________  Date: 8/10/2026
@@ -310,9 +309,9 @@ Printed name: ______________________________
 
 ---
 
-## Per-Term Payment Copies (Schedules A–E)
+## Per-Term Payment Copies (Schedules A–D)
 
-The five schedules below are individual, filled-in copies — one per Term
+The four schedules below are individual, filled-in copies — one per Term
 — covering the same settlement as Section 3b. Each is a standalone
 record of that specific term's rent + late penalty, and each can be
 signed and kept separately (e.g., stapled to a check, saved as a
@@ -320,7 +319,7 @@ receipt, or filed on its own).
 
 The Parties acknowledge that each Schedule below refers to the same
 lump-sum settlement in Section 3b — the schedules do **not** add up to
-new amounts owed beyond the $3,425.00 total.
+new amounts owed beyond the $2,817.50 total.
 
 **Print each Schedule in duplicate** so the Homeowner and the Renter
 each keep a fully signed copy of that term's record.
@@ -334,12 +333,12 @@ each keep a fully signed copy of that term's record.
 - **Room address:** ______________________________________, Fremont, CA _______
 - **Term:** June 1, 2023 – December 1, 2023 (6 months)
 - **Rent Due Date:** **June 1, 2023**
-- **Base rent for this Term:** **$580.00**
+- **Base rent for this Term:** **$587.50**
 - **Payment date (actual):** **August 10, 2026**
 - **Days past due on payment date:** **1,166 days**
 - **Periods Late (1 per 182-day block, rounded up):** **7**
-- **Late penalty:** 7 × $21.00 = **$147.00**
-- **Total paid for Term 1:** **$727.00**
+- **Late penalty:** 7 × $21.25 = **$148.75**
+- **Total paid for Term 1:** **$736.25**
 - **Payment method:** [ ] Zelle  [ ] Venmo  [ ] Check #_______  [ ] Cash  [ ] Other: __________
 - **Memo / reference:** "Term 1 rent + late fees (6/1/23 – 12/1/23)"
 - **Copy:** [ ] Homeowner's copy   [ ] Renter's copy
@@ -356,12 +355,12 @@ Renter signature: __________________________________  Date: __________
 - **Room address:** ______________________________________, Fremont, CA _______
 - **Term:** December 1, 2023 – June 1, 2024 (6 months)
 - **Rent Due Date:** **December 1, 2023**
-- **Base rent for this Term:** **$580.00**
+- **Base rent for this Term:** **$587.50**
 - **Payment date (actual):** **August 10, 2026**
 - **Days past due on payment date:** **983 days**
 - **Periods Late (1 per 182-day block, rounded up):** **6**
-- **Late penalty:** 6 × $21.00 = **$126.00**
-- **Total paid for Term 2:** **$706.00**
+- **Late penalty:** 6 × $21.25 = **$127.50**
+- **Total paid for Term 2:** **$715.00**
 - **Payment method:** [ ] Zelle  [ ] Venmo  [ ] Check #_______  [ ] Cash  [ ] Other: __________
 - **Memo / reference:** "Term 2 rent + late fees (12/1/23 – 6/1/24)"
 - **Copy:** [ ] Homeowner's copy   [ ] Renter's copy
@@ -378,12 +377,12 @@ Renter signature: __________________________________  Date: __________
 - **Room address:** ______________________________________, Fremont, CA _______
 - **Term:** June 1, 2024 – December 1, 2024 (6 months)
 - **Rent Due Date:** **June 1, 2024**
-- **Base rent for this Term:** **$580.00**
+- **Base rent for this Term:** **$587.50**
 - **Payment date (actual):** **August 10, 2026**
 - **Days past due on payment date:** **800 days**
 - **Periods Late (1 per 182-day block, rounded up):** **5**
-- **Late penalty:** 5 × $21.00 = **$105.00**
-- **Total paid for Term 3:** **$685.00**
+- **Late penalty:** 5 × $21.25 = **$106.25**
+- **Total paid for Term 3:** **$693.75**
 - **Payment method:** [ ] Zelle  [ ] Venmo  [ ] Check #_______  [ ] Cash  [ ] Other: __________
 - **Memo / reference:** "Term 3 rent + late fees (6/1/24 – 12/1/24)"
 - **Copy:** [ ] Homeowner's copy   [ ] Renter's copy
@@ -393,19 +392,19 @@ Renter signature: __________________________________  Date: __________
 
 ---
 
-### Schedule D — Term 4 (3rd Renewal)
+### Schedule D — Term 4 (3rd Renewal, Most Recent Complete Term)
 
 - **Homeowner:** ______________________________________
 - **Renter:** ______________________________________
 - **Room address:** ______________________________________, Fremont, CA _______
 - **Term:** December 1, 2024 – June 1, 2025 (6 months)
 - **Rent Due Date:** **December 1, 2024**
-- **Base rent for this Term:** **$580.00**
+- **Base rent for this Term:** **$587.50**
 - **Payment date (actual):** **August 10, 2026**
 - **Days past due on payment date:** **617 days**
 - **Periods Late (1 per 182-day block, rounded up):** **4**
-- **Late penalty:** 4 × $21.00 = **$84.00**
-- **Total paid for Term 4:** **$664.00**
+- **Late penalty:** 4 × $21.25 = **$85.00**
+- **Total paid for Term 4:** **$672.50**
 - **Payment method:** [ ] Zelle  [ ] Venmo  [ ] Check #_______  [ ] Cash  [ ] Other: __________
 - **Memo / reference:** "Term 4 rent + late fees (12/1/24 – 6/1/25)"
 - **Copy:** [ ] Homeowner's copy   [ ] Renter's copy
@@ -415,38 +414,15 @@ Renter signature: __________________________________  Date: __________
 
 ---
 
-### Schedule E — Term 5 (4th Renewal, Most Recent Complete Term)
-
-- **Homeowner:** ______________________________________
-- **Renter:** ______________________________________
-- **Room address:** ______________________________________, Fremont, CA _______
-- **Term:** June 1, 2025 – December 1, 2025 (6 months)
-- **Rent Due Date:** **June 1, 2025**
-- **Base rent for this Term:** **$580.00**
-- **Payment date (actual):** **August 10, 2026**
-- **Days past due on payment date:** **435 days**
-- **Periods Late (1 per 182-day block, rounded up):** **3**
-- **Late penalty:** 3 × $21.00 = **$63.00**
-- **Total paid for Term 5:** **$643.00**
-- **Payment method:** [ ] Zelle  [ ] Venmo  [ ] Check #_______  [ ] Cash  [ ] Other: __________
-- **Memo / reference:** "Term 5 rent + late fees (6/1/25 – 12/1/25)"
-- **Copy:** [ ] Homeowner's copy   [ ] Renter's copy
-
-Homeowner signature: ______________________________  Date: __________
-Renter signature: __________________________________  Date: __________
-
----
-
-### Settlement Totals (all five schedules combined)
+### Settlement Totals (all four schedules combined)
 
 | Schedule | Term Total |
 |----------|-----------:|
-| A — Term 1 |   $727.00 |
-| B — Term 2 |   $706.00 |
-| C — Term 3 |   $685.00 |
-| D — Term 4 |   $664.00 |
-| E — Term 5 |   $643.00 |
-| **Grand total, paid 8/10/2026** | **$3,425.00** |
+| A — Term 1 |   $736.25 |
+| B — Term 2 |   $715.00 |
+| C — Term 3 |   $693.75 |
+| D — Term 4 |   $672.50 |
+| **Grand total, paid 8/10/2026** | **$2,817.50** |
 
 ---
 
